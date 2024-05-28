@@ -1,6 +1,6 @@
-##maNand XBOX 360 Corrupted Nand Checker##
+#maNand XBOX 360 Corrupted Nand Checker
 
-##PROJECT STATUS##: 🟠
+#PROJECT STATUS: 🟠
 # 🟠 - Working but in Testing phase, 🟢 - Working, 🔴 - Not Working
 
 #This simple Python program uses Machine Learning to check if a nand dump the user provides is "Good" in terms of corruption. Corrupted nands are a huge problem in XBOX 360 modding scene. Prevent your XBOX 360 from getting bricked with this tool!
