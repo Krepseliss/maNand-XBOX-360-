@@ -18,17 +18,15 @@
   <li>Build a user-friendly GUI</li>
 </ul>
 <h2 align="center">HOW TO USE</h2>
-<h3 align="center">WINDOWS</h3>
+<h3 align="center">WINDOWS/LINUX</h3>
 <p align="center">Assuming you have Python installed:</p>
 <ol align="center">
-  <li>Run CMD</li>
+  <li>Run CMD or Terminal</li>
   <li>Type: <code>cd "&lt;maNand directory&gt;"</code> (keep the double quotation marks, you may have spaces between your folder names)</li>
   <li>Type: <code>python main.py</code></li>
+  <li>Type: <code>OR</code></li>
+  <li>Type: <code>python3 main.py</code></li>
 </ol>
-<p align="center">MAKE SURE THE "BAD" AND "GOOD" FOLDERS ARE IN THE MAIN maNand DIRECTORY</p>
-<h3 align="center">LINUX</h3>
-<p align="center">Assuming you have Python installed:</p>
-<p align="center">RUN maNand: <code>cd "&lt;maNand directory&gt;"</code> (keep the double quotation marks, you may have spaces between your folder names)</p>
 <p align="center">MAKE SURE THE "BAD" AND "GOOD" FOLDERS ARE IN THE MAIN maNand DIRECTORY</p>
 <h2 align="center">Needed Libraries</h2>
 <ul align="center">
