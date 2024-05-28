@@ -39,3 +39,6 @@
   <li>Tkinter (Future package)</li>
   <li>os-sys</li>
 </ul>
+
+![Screenshot 2024-05-28 072517](https://github.com/Krepseliss/maNand-XBOX-360-/assets/160539724/be754624-467d-4d9d-a75d-cb28a7b8d28e)
+
