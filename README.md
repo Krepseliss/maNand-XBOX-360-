@@ -9,7 +9,7 @@
   This simple Python program uses Machine Learning to check if a NAND dump the user provides is "Good" in terms of corruption. Corrupted NANDs are a significant issue in the XBOX 360 modding scene. Prevent your XBOX 360 from getting bricked with this tool!
 </p>
 <p align="center">
-  <em style="color:red;"><strong>Currently only 16MB nands are supported. 256MB or 4GB nands will not get the correct classification and the result will be misleading. DO NOT RISK IT</strong></em>
+  <em><strong style="color:red;">Currently only 16MB nands are supported. 256MB or 4GB nands will not get the correct classification and the result will be misleading. DO NOT RISK IT</strong></em>
 </p>
 <h2 align="center">CHANGELOG</h2>
 <p align="center">
