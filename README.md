@@ -24,7 +24,7 @@
   <li>Run CMD or Terminal</li>
   <li>Type: <code>cd "&lt;maNand directory&gt;"</code> (keep the double quotation marks, you may have spaces between your folder names)</li>
   <li>Type: <code>python main.py</code></li>
-  <li>Type: <code>OR</code></li>
+  <li>OR</li>
   <li>Type: <code>python3 main.py</code></li>
 </ol>
 <p align="center">MAKE SURE THE "BAD" AND "GOOD" FOLDERS ARE IN THE MAIN maNand DIRECTORY</p>
