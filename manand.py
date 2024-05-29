@@ -25,7 +25,7 @@ def extract_features(file_path):
     #frequency calculation of each byte value (0-255)
     byte_counts = np.bincount(byte_array, minlength=256)
     return byte_counts / byte_counts.sum() #Normalization of each byte count
-# Load data
+# Load data manually
 #good_files_dir = r'C:\Users\alex\Documents\CONSOLES\XBOX\J RUNNER\GOOD'
 #good_files_dir=filedialog.askdirectory(title="Select Good Dump Data Folder!")
 #bad_files_dir = r'C:\Users\alex\Documents\CONSOLES\XBOX\J RUNNER\BAD'
