@@ -40,6 +40,4 @@
   <li>os-sys</li>
 </ul>
 
-
-![manand](https://github.com/Krepseliss/maNand-XBOX-360-/assets/160539724/ac59c029-d80b-4ec2-9e77-2f0990fba3de)
-
+![manand](https://github.com/Krepseliss/maNand-XBOX-360-/assets/160539724/17569b94-00b3-45c9-9189-982942b5c122)
