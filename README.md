@@ -16,7 +16,7 @@
 </p>
 <h2 align="center">CHANGELOG</h2>
 <p align="center">
-  None
+  .Exe file is ready to use, will be uploading soon.
 </p>
 <h2 align="center">FUTURE GOALS</h2>
 <ul align="center">
